@@ -99,7 +99,7 @@
                             <table id='my_file_output' border=""
                                    class="table table-bordered table-condensed table-striped"></table>
                         </div>
-                        <button id="btn_lectura" class="btn btn-info">Registrar Datos</button>
+                        <button id="btn_lectura" class="btn btn-info">Guardar Datos</button>
                         <a href="index.php" class="btn btn-default ">Cancelar</a>
                         <p id="respuesta">
 
