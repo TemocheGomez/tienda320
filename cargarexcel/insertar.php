@@ -6,10 +6,10 @@
  * Time: 10:40
  */
 
-define('SERVIDOR','localhost');
-define('USUARIO','root');
-define('PASSWORD','');
-define('BD','prueba');
+define('SERVIDOR','185.27.134.10/db_sql.php?db=epiz_28562692_mall320');
+define('USUARIO','epiz_28562692');
+define('PASSWORD','cearWPXMsWI');
+define('BD','epiz_28562692_mall320');
 
 $servidor="mysql:dbname=".BD.";host=".SERVIDOR;
 try{
